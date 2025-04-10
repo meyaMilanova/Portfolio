@@ -70,7 +70,7 @@ function About() {
                         </div>
                         <a
                             className="w-[7vw] ml-[75vw] rounded-full border-[0.2vw] border-myGreen mt-[-9vw]"
-                            href="https://github.com/meyaMilanova/Portfolio/blob/main/public/CV-Milanela-Milanova.pdf"
+                            href="/public/CV-Milanela-Milanova.pdf"
                             download
                         >
                             <span className="text-white font-DhynaBold text-[4vw] px-[0.6vw] leading-relaxed hover:text-ohGrey">
