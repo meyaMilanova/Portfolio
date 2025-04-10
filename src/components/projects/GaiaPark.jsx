@@ -78,18 +78,18 @@ function GaiaPark() {
                         </div>
                         <div className="flex justify-end items-end mt-[3vw] z-50">
                             <img src={wireframeHome}
-                                 className="w-[16vw] h-auto mb-[1vw] shadow-lg"
+                                 className="w-[16vw] h-auto mb-[1vw]"
                                  style={{boxShadow: "-15px 15px 25px rgba(0, 0, 0, 0.4)",}}
                             />
                             <img src={wireframeDonation}
-                                 className="w-[16vw] h-auto ml-[-1vw] shadow-lg"
+                                 className="w-[16vw] h-auto ml-[-1vw]"
                                  style={{boxShadow: "-15px 15px 25px rgba(0, 0, 0, 0.4)",}}
                             />
                         </div>
                     </div>
 
                     <img src={poster}
-                         className="relative h-auto mt-[-32vw] shadow-inner"
+                         className="relative h-auto mt-[-32vw]"
                          style={{boxShadow: "0 -0.3vw 1vw rgba(0, 0, 0, 0.3), 0 0.3vw 1vw rgba(0, 0, 0, 0.3)",}}
                     />
                 </div>
