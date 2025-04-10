@@ -68,15 +68,15 @@ function About() {
                             <p className="font-HelveticaNeueL text-white text-[1.05vw]">Board of Directors of Study
                                 Association CAIT<br/>Rotterdam University of Applied Sciences</p>
                         </div>
-                        <a
-                            className="w-[7vw] ml-[75vw] rounded-full border-[0.2vw] border-myGreen mt-[-9vw]"
-                            href="/CV-Milanela-Milanova.pdf"
-                            download
-                        >
-                            <span className="text-white font-DhynaBold text-[4vw] px-[0.6vw] leading-relaxed hover:text-ohGrey">
-                                CV
-                            </span>
-                        </a>
+                        {/*<a*/}
+                        {/*    className="w-[7vw] ml-[75vw] rounded-full border-[0.2vw] border-myGreen mt-[-9vw]"*/}
+                        {/*    href="/CV-Milanela-Milanova.pdf"*/}
+                        {/*    download*/}
+                        {/*>*/}
+                        {/*    <span className="text-white font-DhynaBold text-[4vw] px-[0.6vw] leading-relaxed hover:text-ohGrey">*/}
+                        {/*        CV*/}
+                        {/*    </span>*/}
+                        {/*</a>*/}
 
                     </div>
                     <img src={meyImg} className="w-[52vw] h-auto ml-[-20vw]"/>
