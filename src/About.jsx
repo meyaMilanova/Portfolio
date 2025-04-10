@@ -18,10 +18,10 @@ import art from "../src/assets/images/layout/painting-invert1.png";
 import events from "../src/assets/images/layout/event-invert.png";
 import travel from "../src/assets/images/layout/sign-invert.png";
 
-function About () {
+function About() {
     return (
         <>
-            <Nav className="z-5" />
+            <Nav className="z-5"/>
             <div className="bg-blackBackground px-[8vw]">
                 {/*About me start*/}
                 <section className="flex gap-[3vw] items-center">
@@ -68,12 +68,14 @@ function About () {
                             <p className="font-HelveticaNeueL text-white text-[1.05vw]">Board of Directors of Study
                                 Association CAIT<br/>Rotterdam University of Applied Sciences</p>
                         </div>
-                        <a className=" w-[7vw] ml-[75vw] rounded-full border-[0.2vw] border-myGreen mt-[-9vw] ">
-                            <a href="../dist/CV-Milanela-Milanova.pdf"
-                               download
-                               className="text-white font-DhynaBold text-[4vw] px-[0.6vw] leading-relaxed hover:text-ohGrey">
+                        <a
+                            className="w-[7vw] ml-[75vw] rounded-full border-[0.2vw] border-myGreen mt-[-9vw]"
+                            href="/CV-Milanela-Milanova.pdf"
+                            download
+                        >
+                            <span className="text-white font-DhynaBold text-[4vw] px-[0.6vw] leading-relaxed hover:text-ohGrey">
                                 CV
-                            </a>
+                            </span>
                         </a>
 
                     </div>
