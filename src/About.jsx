@@ -69,7 +69,7 @@ function About () {
                                 Association CAIT<br/>Rotterdam University of Applied Sciences</p>
                         </div>
                         <a className=" w-[7vw] ml-[75vw] rounded-full border-[0.2vw] border-myGreen mt-[-9vw] ">
-                            <a href="../public/CV-Milanela-Milanova.pdf"
+                            <a href="../dist/CV-Milanela-Milanova.pdf"
                                download
                                className="text-white font-DhynaBold text-[4vw] px-[0.6vw] leading-relaxed hover:text-ohGrey">
                                 CV
@@ -79,12 +79,6 @@ function About () {
                     </div>
                     <img src={meyImg} className="w-[52vw] h-auto ml-[-20vw]"/>
                 </section>
-
-                {/*<a href="../public/CV-Milanela-Milanova.pdf"*/}
-                {/*    download*/}
-                {/*    className="text-white font-DhynaBold text-[4vw] px-[0.6vw] ml-[75vw] rounded-full border-[0.2vw] border-myGreen hover:text-ohGrey">*/}
-                {/*    CV*/}
-                {/*</a>*/}
 
                 {/*Software*/}
                 <section className="flex flex-col justify-center w-[84vw] mt-[6vw]">
