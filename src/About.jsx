@@ -104,7 +104,7 @@ function About() {
                 <section className="flex items-start w-[75vw] justify-center gap-[10vw] mt-[10vw]">
                     <div className="w-[25vw]">
                         <h2 className="text-myGreen font-Dhyna font-bold text-[2.77vw] text-right">Personal Skills</h2>
-                        <p className="text-white font-Dhyna text-[1.15vw] text-right">DETAIL-ORIANTATED</p>
+                        <p className="text-white font-Dhyna text-[1.15vw] text-right">DETAIL-ORIENTED</p>
                         <p className="text-white font-Dhyna text-[1.15vw] text-left">SELF-MOTIVATED</p>
                         <p className="text-white font-Dhyna text-[1.15vw] text-left">GREAT LISTENING SKILLS</p>
                         <p className="text-white font-Dhyna text-[1.15vw] text-left">VISIONARY THINKING</p>
